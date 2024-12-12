@@ -1,0 +1,14 @@
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/bin/Debug/net8.0/MagazaYonetimi
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/bin/Debug/net8.0/MagazaYonetimi.deps.json
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/bin/Debug/net8.0/MagazaYonetimi.runtimeconfig.json
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/bin/Debug/net8.0/MagazaYonetimi.dll
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/bin/Debug/net8.0/MagazaYonetimi.pdb
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/obj/Debug/net8.0/MagazaYonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/obj/Debug/net8.0/MagazaYonetimi.AssemblyInfoInputs.cache
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/obj/Debug/net8.0/MagazaYonetimi.AssemblyInfo.cs
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/obj/Debug/net8.0/MagazaYonetimi.csproj.CoreCompileInputs.cache
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/obj/Debug/net8.0/MagazaYonetimi.dll
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/obj/Debug/net8.0/refint/MagazaYonetimi.dll
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/obj/Debug/net8.0/MagazaYonetimi.pdb
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/obj/Debug/net8.0/MagazaYonetimi.genruntimeconfig.cache
+/Users/svage/RiderProjects/MagazaYonetimi/MagazaYonetimi/obj/Debug/net8.0/ref/MagazaYonetimi.dll
